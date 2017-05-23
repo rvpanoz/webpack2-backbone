@@ -1,16 +1,16 @@
 # webpack2-backbone
 simple backbone app bundled with webpack2
 
+### Prerequisites
+
+Install NodeJS and npm on your machine
+
 ## Getting Started
 
 ```
 cd /webpack2-backbone
 npm install
 ```
-
-### Prerequisites
-
-Install NodeJS and npm
 
 ### Run the development server
 
